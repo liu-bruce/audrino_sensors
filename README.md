@@ -1,5 +1,5 @@
 # audrino_sensors
-
+<p>
 archive of attempting useage of audrino sensors
 <br>
 enviorment 
@@ -20,3 +20,4 @@ jumper cables
 <br>
 330 resistor 1% tolerance
 <br>
+</p>
