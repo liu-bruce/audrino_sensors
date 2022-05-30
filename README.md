@@ -20,4 +20,5 @@ jumper cables
 <br>
 330 resistor 1% tolerance
 <br>
+  usb a to mirco cable
 </p>
