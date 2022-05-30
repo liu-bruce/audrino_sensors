@@ -3,7 +3,7 @@
 archive of attempting useage of audrino sensors
 <br>
 enviorment 
-<br> /t linux mint
+<br> &emsp linux mint
 <br>
 powershell
 <br>
