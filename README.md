@@ -32,6 +32,7 @@ blue led x1
 jumper cables
 <br>
 330 ohm resistor 1% tolerance
+<br>
 2000 ohm resistor 1% tolerance
 <br>
   usb a to micro cable
